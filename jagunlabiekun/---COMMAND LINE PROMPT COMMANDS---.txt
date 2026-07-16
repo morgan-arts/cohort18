@@ -1,0 +1,9 @@
+---COMMAND LINE PROMPT COMMANDS---
+cd desktop mkdir "cohort18 assignment"
+cd "cohort18 assignment"
+mkdir jagunlabiekun
+notepad jagunlabiekun.txt
+---GIT COMMANDS---
+git init
+git add .
+git commit -m "initial commit with assignment files
