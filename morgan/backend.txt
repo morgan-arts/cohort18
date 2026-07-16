@@ -1,4 +1,0 @@
-name: Elijah morgan
-nationality: Nigerian
-phone number: 9288373838
-religion: christian
